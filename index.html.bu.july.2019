@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" value="anjie fang terrier glasgow univeristy topic modelling information retrieval ir machine learning">
 
-		<title>Anjie Fang - Applied Scientist at Amazon</title>
+		<title>Anjie Fang - PhD candidate at The University of Glasgow</title>
 
 		<!-- Bootstrap Core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,16 @@
 							<h2 class="page-header">
 								<a name="interests">Research Interests</a>
 							</h2>
-							<div class="newPanel">My research interests include natural language processing and machine learning on contextual data. During my PhD study, I helped social scientists to understand political events (e.g. an election) by proposing a serise of computing science approaches for social media data. These approaches can effectively extarct discussed topics on Twitter and identify users' into ccommunities during a political event. </div>
+							<div class="newPanel">My current research is to generate
+								valuable dynamic topics from social media network (e.g. Twitter)
+								involving time stamp and community information. This work helps
+								social scientist understand the information dynamics on social
+								media network, such as when topics rise/fade, how topics change
+								over time, how topics flow among communities, etc. As a
+								preliminary, I've successfully improve the text classification on
+								identifying users' political orientations by involving topics.
+								Also, I examined the usefulness of existing topic coherence
+								metrics for Twitter data and proposed more effective tweets topic coherence metrics.</div>
 
 							<div>
 								<h1 class="page-header">
@@ -369,17 +378,18 @@
 							</ul>
 
 							<p>
-								440 Terry Ave N <br> Seattle, WA, US, 98109.
+								F111, Sir Alwyn Williams Bldg<br> School of Computing Science<br>
+								Glasgow, G12 8QQ, UK
 							</p>
 							<p>
 								<!-- <span class="glyphicon glyphicon-envelope" aria-hidden="true">: <a
 									href="mailto:a.fang.1@research.gla.ac.uk">a.fang.1@research.gla.ac.uk</a></span> -->
-								<span class="glyphicon glyphicon-envelope" aria-hidden="true">: anjiefang&ensp;at&ensp;gmail.com</span>	
+								<span class="glyphicon glyphicon-envelope" aria-hidden="true">: a.fang.1&ensp;at&ensp;research.gla.ac.uk</span>	
 							</p>
-<!-- 
+
 							<p>
 								<span class="glyphicon glyphicon-phone-alt" aria-hidden="true">: 01413306292</span>
-							</p> -->
+							</p>
 
 							<a class="twitter-timeline" href="https://twitter.com/anjiefang"
 								data-widget-id="703243305669283840">Tweets by @anjiefang</a>
@@ -404,7 +414,7 @@
 						<div class="row">
 							<div class="col-lg-12" style="text-align: center;">
 								<br>
-								<br> Copyright &copy; Anjie Fang 2019. Adapted from a Bootstrap theme.
+								<br> Copyright &copy; Anjie Fang 2016. Adapted from a Bootstrap theme.
 							</div>
 						</div>
 					</footer>
